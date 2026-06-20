@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.class1{
+    background-color:pink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+.bigsize{
+    font-size: 24px;
+}
+#firstID{
+    color:blue;
+    font-size: 36px;
+}
+#secondID{
+    background-color: lightgreen;
+    font-weight: bold;
+}
